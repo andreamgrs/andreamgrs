@@ -24,7 +24,7 @@
 
 ## About me
 
-I'm a robotics engineer turned web developer, currently building digital experiences that are clean, intuitive, and intentional. I'm driven by the same thing whether I'm writing code or teaching a yoga class — the pursuit of flow, clarity, and connection.
+I'm a robotics engineer turned web developer, currently building digital experiences that are clean, intuitive, and intentional. 
 
 When I'm not in front of a screen, you'll find me on the mat, tending to my plant collection, or probably both at the same time.
 
