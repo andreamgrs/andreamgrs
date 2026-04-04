@@ -11,7 +11,7 @@
 
 # Hey, I'm Andrea 🌿
 
-**Software Developer · Yoga Teacher · Plant Lover**
+**Software Developer**
 
 *Mexican in Melbourne, building beautiful things on the web*
 
